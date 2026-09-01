@@ -13,4 +13,4 @@ Release signing credentials and private recovery material are never stored in th
 
 ## Current release
 
-OpenHDS Pro 2.0.119 simplifies top-right account labels to show only the modern account icon, signed-in user name and fieldworker code.
+OpenHDS Pro 2.0.120 horizontally aligns the Data quality, Missed events and Listings icons beside their titles and statuses for a cleaner dashboard layout.
