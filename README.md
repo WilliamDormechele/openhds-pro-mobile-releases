@@ -13,4 +13,4 @@ Release signing credentials and private recovery material are never stored in th
 
 ## Current release
 
-OpenHDS Pro 2.0.114 fixes `Resume required step` after a missing Visit Registration draft. It opens a new valid Visit Registration form from the preserved visit context, retaining the visit and interviewee without creating a second visit record.
+OpenHDS Pro 2.0.115 keeps the encrypted OpenHDS server URL for the complete app installation. Existing settings migrate automatically, and the URL survives app restarts and signed in-place updates without being requested again.
