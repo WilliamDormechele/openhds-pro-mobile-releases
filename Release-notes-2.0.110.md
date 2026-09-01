@@ -2,9 +2,9 @@
 
 ## Changes
 
-- Shows a modern inactivity warning after four minutes without touch, keyboard or navigation activity.
+- Shows a modern inactivity warning after five minutes without touch, keyboard or navigation activity.
 - Displays a 60-second countdown with `Stay signed in` and `Sign out now` actions.
-- Automatically returns to secure sign-in after five minutes of inactivity.
+- Automatically returns to secure sign-in when the 60-second warning countdown ends.
 - Preserves drafts, finalised unsent forms and other local fieldwork data during sign-out.
 - Retains the dashboard, data-quality, missed-event, listing, cluster-assignment, update and protected data-relay features.
 
