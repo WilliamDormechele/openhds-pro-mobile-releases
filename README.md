@@ -13,4 +13,4 @@ Release signing credentials and private recovery material are never stored in th
 
 ## Current release
 
-OpenHDS Pro 2.0.112 fixes fieldworker synchronization on tablets configured with the encrypted server URL. It also improves synchronization feedback and retains visit-scoped enforcement, allowing multiple distinct visits to the same household while preventing accidental duplicate work within one visit.
+OpenHDS Pro 2.0.113 safely handles paused required-form drafts that were removed from ODK. It prevents the ODK "Bad URI" screen, preserves completed records, and guides the fieldworker back to the correct household to restart the missing form.
