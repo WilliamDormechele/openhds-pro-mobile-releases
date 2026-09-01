@@ -13,4 +13,4 @@ Release signing credentials and private recovery material are never stored in th
 
 ## Current release
 
-OpenHDS Pro 2.0.117 fixes the initial hierarchy search. Region filtering now works immediately when Household fieldwork opens, without requiring the Region button to be tapped first, while later hierarchy filters continue to follow the selected level.
+OpenHDS Pro 2.0.118 adds safe discard/delete actions for unfinished and failed forms, asks whether an unfinished ODK return should be discarded or kept as a draft, and standardises collected-form cards into a more compact layout.
