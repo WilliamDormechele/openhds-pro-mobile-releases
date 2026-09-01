@@ -13,4 +13,4 @@ Release signing credentials and private recovery material are never stored in th
 
 ## Current release
 
-OpenHDS Pro 2.0.110 adds an inactivity warning after five minutes and signs out when its 60-second countdown ends. It preserves all draft and finalised unsent fieldwork stored on the tablet.
+OpenHDS Pro 2.0.111 fixes supervisor synchronization with encrypted server preferences, restoring HDSS hierarchy and extra-form downloads on newly configured tablets. It retains the inactivity protection and preserves draft and finalised unsent fieldwork.
