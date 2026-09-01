@@ -13,4 +13,4 @@ Release signing credentials and private recovery material are never stored in th
 
 ## Current release
 
-OpenHDS Pro 2.0.118 adds safe discard/delete actions for unfinished and failed forms, asks whether an unfinished ODK return should be discarded or kept as a draft, and standardises collected-form cards into a more compact layout.
+OpenHDS Pro 2.0.119 simplifies top-right account labels to show only the modern account icon, signed-in user name and fieldworker code.
