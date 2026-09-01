@@ -13,4 +13,4 @@ Release signing credentials and private recovery material are never stored in th
 
 ## Current release
 
-OpenHDS Pro 2.0.116 is a fieldwork-correctness release. It reconciles dashboard and drill-down totals, corrects member-level U5 Vaccination and PG/NB Pregnancy Outcome follow-up, highlights today on the weekly trend, retains the compound between household visits, and shows Resident, DTH and OMG status in complete member search.
+OpenHDS Pro 2.0.117 fixes the initial hierarchy search. Region filtering now works immediately when Household fieldwork opens, without requiring the Region button to be tapped first, while later hierarchy filters continue to follow the selected level.
