@@ -13,4 +13,4 @@ Release signing credentials and private recovery material are never stored in th
 
 ## Current release
 
-OpenHDS Pro 2.0.115 keeps the encrypted OpenHDS server URL for the complete app installation. Existing settings migrate automatically, and the URL survives app restarts and signed in-place updates without being requested again.
+OpenHDS Pro 2.0.116 is a fieldwork-correctness release. It reconciles dashboard and drill-down totals, corrects member-level U5 Vaccination and PG/NB Pregnancy Outcome follow-up, highlights today on the weekly trend, retains the compound between household visits, and shows Resident, DTH and OMG status in complete member search.
