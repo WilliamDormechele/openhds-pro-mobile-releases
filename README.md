@@ -13,4 +13,4 @@ Release signing credentials and private recovery material are never stored in th
 
 ## Current release
 
-OpenHDS Pro 2.0.120 horizontally aligns the Data quality, Missed events and Listings icons beside their titles and statuses for a cleaner dashboard layout.
+OpenHDS Pro 2.0.121 reduces the height and spacing of the Data quality, Missed events and Listings cards to shorten dashboard scrolling while preserving clear horizontal alignment.
