@@ -13,4 +13,4 @@ Release signing credentials and private recovery material are never stored in th
 
 ## Current release
 
-OpenHDS Pro 2.0.111 fixes supervisor synchronization with encrypted server preferences, restoring HDSS hierarchy and extra-form downloads on newly configured tablets. It retains the inactivity protection and preserves draft and finalised unsent fieldwork.
+OpenHDS Pro 2.0.112 fixes fieldworker synchronization on tablets configured with the encrypted server URL. It also improves synchronization feedback and retains visit-scoped enforcement, allowing multiple distinct visits to the same household while preventing accidental duplicate work within one visit.
