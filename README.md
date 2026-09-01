@@ -13,4 +13,4 @@ Release signing credentials and private recovery material are never stored in th
 
 ## Current release
 
-OpenHDS Pro 2.0.121 reduces the height and spacing of the Data quality, Missed events and Listings cards to shorten dashboard scrolling while preserving clear horizontal alignment.
+OpenHDS Pro 2.0.122 restores visible household totals and visited/remaining progress on compound rows, colour-coded compound states, and the colour-coded hierarchy progress summary.
