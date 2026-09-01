@@ -13,4 +13,4 @@ Release signing credentials and private recovery material are never stored in th
 
 ## Current release
 
-OpenHDS Pro 2.0.113 safely handles paused required-form drafts that were removed from ODK. It prevents the ODK "Bad URI" screen, preserves completed records, and guides the fieldworker back to the correct household to restart the missing form.
+OpenHDS Pro 2.0.114 fixes `Resume required step` after a missing Visit Registration draft. It opens a new valid Visit Registration form from the preserved visit context, retaining the visit and interviewee without creating a second visit record.
