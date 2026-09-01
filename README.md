@@ -10,3 +10,7 @@ This public repository hosts official signed OpenHDS Pro Android release APKs fo
 - Back up and synchronise field data according to programme procedures whenever connectivity permits.
 
 Release signing credentials and private recovery material are never stored in this repository.
+
+## Current release
+
+OpenHDS Pro 2.0.110 adds a five-minute inactivity sign-out with a visible final-minute warning. It preserves all draft and finalised unsent fieldwork stored on the tablet.
