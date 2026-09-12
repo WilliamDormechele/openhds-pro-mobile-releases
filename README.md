@@ -13,4 +13,4 @@ Release signing credentials and private recovery material are never stored in th
 
 ## Current release
 
-OpenHDS Pro 2.0.122 restores visible household totals and visited/remaining progress on compound rows, colour-coded compound states, and the colour-coded hierarchy progress summary.
+OpenHDS Pro 2.0.189 is the post-pilot field hardening release, with household-scoped navigation, governed migration membership, active-visit Finish Visit controls, current-household HH status, and Blackview/ODK reliability fixes.
