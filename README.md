@@ -1,4 +1,4 @@
-# OpenHDS Pro Mobile Releases
+﻿# OpenHDS Pro Mobile Releases
 
 This public repository hosts official signed OpenHDS Pro Android release APKs for field tablets.
 
@@ -13,4 +13,4 @@ Release signing credentials and private recovery material are never stored in th
 
 ## Current release
 
-OpenHDS Pro 2.0.202 is the current field release. It restores reliable HDSS synchronisation with the legacy OpenHDS server while preserving existing local data until replacement data is received successfully, and restores Phone and NHIS information on household member cards.
+OpenHDS Pro 2.0.203 adds governed round readiness and current-round visit progress while preserving historical fieldwork records and existing application functionality.
