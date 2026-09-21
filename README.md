@@ -13,4 +13,4 @@ Release signing credentials and private recovery material are never stored in th
 
 ## Current release
 
-OpenHDS Pro 2.0.189 is the post-pilot field hardening release, with household-scoped navigation, governed migration membership, active-visit Finish Visit controls, current-household HH status, and Blackview/ODK reliability fixes.
+OpenHDS Pro 2.0.202 is the current field release. It restores reliable HDSS synchronisation with the legacy OpenHDS server while preserving existing local data until replacement data is received successfully, and restores Phone and NHIS information on household member cards.
